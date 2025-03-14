@@ -7,11 +7,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         "torch",
-        "torchvision",
-        "numpy",
-        "matplotlib",
-        "scipy",
-        "scikit-learn",
-        "pandas",
+        "torchaudio",
     ],
 )
